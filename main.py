@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-from pytube import YouTube 
+
 # Import the os module.
 import os
 # Import load_dotenv function from dotenv module.
